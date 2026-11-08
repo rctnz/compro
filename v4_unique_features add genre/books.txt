@@ -1,0 +1,28 @@
+B001|ภาษา C เบื้องต้น|สมชาย ใจดี|1
+B002|โครงสร้างข้อมูลเบื้องต้น|สุภา รักเรียน|0
+B003|พื้นฐานการเขียนโปรแกรม|อนันต์ ใจดี|0
+B004|Python Crash Course|Eric Matthes|0
+B005|Clean Code|Robert C. Martin|0
+B006|Hands-On Machine Learning|Aurelien Geron|0
+B007|Data Science for Business|Foster Provost|0
+B008|Calculus|James Stewart|0
+B009|Linear Algebra and Its Applications|David C. Lay|0
+B010|Digital Design|M. Morris Mano|0
+B011|The Art of Electronics|Paul Horowitz|0
+B012|Fundamentals of Physics|David Halliday|0
+B013|A Brief History of Time|Stephen Hawking|0
+B014|The Little Prince|Antoine de Saint-Exupery|0
+B015|The Hobbit|J.R.R. Tolkien|0
+B016|Atomic Habits|James Clear|0
+B017|Deep Work|Cal Newport|0
+B018|Rich Dad Poor Dad|Robert Kiyosaki|0
+B019|Zero to One|Peter Thiel|0
+1212312121|TESTEIEI|RACHATA|0
+B020|Harry Potter and the Philosopher's Stone|J.K. Rowling|0
+B021|Dune|Frank Herbert|0
+B022|The Martian|Andy Weir|0
+B023|Foundation|Isaac Asimov|0
+B024|The Hound of the Baskervilles|Arthur Conan Doyle|0
+B025|And Then There Were None|Agatha Christie|0
+B026|The Da Vinci Code|Dan Brown|0
+B027|The 7 Habits of Highly Effective People|Stephen R. Covey|0
