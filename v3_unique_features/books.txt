@@ -1,0 +1,20 @@
+B001|ภาษา C เบื้องต้น|สมชาย ใจดี|1
+B002|โครงสร้างข้อมูลเบื้องต้น|สุภา รักเรียน|0
+B003|พื้นฐานการเขียนโปรแกรม|อนันต์ ใจดี|0
+B004|Python Crash Course|Eric Matthes|0
+B005|Clean Code|Robert C. Martin|0
+B006|Hands-On Machine Learning|Aurelien Geron|0
+B007|Data Science for Business|Foster Provost|0
+B008|Calculus|James Stewart|0
+B009|Linear Algebra and Its Applications|David C. Lay|0
+B010|Digital Design|M. Morris Mano|0
+B011|The Art of Electronics|Paul Horowitz|0
+B012|Fundamentals of Physics|David Halliday|0
+B013|A Brief History of Time|Stephen Hawking|0
+B014|The Little Prince|Antoine de Saint-Exupery|0
+B015|ข้างหลังภาพ|ศรีบูรพา|0
+B016|Atomic Habits|James Clear|0
+B017|Deep Work|Cal Newport|0
+B018|Rich Dad Poor Dad|Robert Kiyosaki|0
+B019|Zero to One|Peter Thiel|0
+1212312121|TESTEIEI|RACHATA|0
